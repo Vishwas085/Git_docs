@@ -2,3 +2,5 @@ yaml scripting
 {
 void main
 }
+stages
+github checkout
