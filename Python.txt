@@ -4,3 +4,4 @@ void main
 }
 stages
 github checkout
+git pull=git merge+git fetch
